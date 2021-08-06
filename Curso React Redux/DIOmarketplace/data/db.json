@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Assinatura mensal",
+            "price": 15.5,
+            "image_url": "https://cdn.statically.io/img/nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png?quality=100&f=auto"
+        },
+        {
+            "id": 2,
+            "title": "Assinatura bimestral",
+            "price": 30.5,
+            "image_url": "https://cdn.statically.io/img/nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png?quality=100&f=auto"
+        },
+        {
+            "id": 3,
+            "title": "Assinatura trimestral",
+            "price": 40.5,
+            "image_url": "https://cdn.statically.io/img/nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png?quality=100&f=auto"
+        },
+        {
+            "id": 4,
+            "title": "Assinatura semestral",
+            "price": 50.5,
+            "image_url": "https://cdn.statically.io/img/nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png?quality=100&f=auto"
+        },
+        {
+            "id": 5,
+            "title": "Assinatura anual",
+            "price": 90.5,
+            "image_url": "https://cdn.statically.io/img/nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png?quality=100&f=auto"
+        }
+    ]
+}
